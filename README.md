@@ -1,5 +1,4 @@
 # Data-Manipulation-Project
-# Data-Manipulation-Project
 
 ## Overview
 This project analyzes global health expenditure and life expectancy data using Python and Jupyter Notebooks. It collects, cleans, and aggregates data from multiple sources to uncover insights about the relationship between healthcare spending and life expectancy across countries and years.
@@ -14,7 +13,7 @@ This project analyzes global health expenditure and life expectancy data using P
 - Handling of inconsistencies and missing values
 - Generation of at least 5 insights and 3 data visualizations
 - Export of aggregated data to summary files
-- All code and analysis in Jupyter Notebooks (`PhaseII.ipynb`, `PhaseIII (1).ipynb`)
+- All code and analysis in Jupyter Notebooks (`Data Manipulation.ipynb`, `Data Visualization.ipynb`)
 
 ## Usage
 1. Open the notebooks in Jupyter or Google Colab.
